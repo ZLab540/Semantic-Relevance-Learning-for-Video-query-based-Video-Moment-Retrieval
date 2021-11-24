@@ -1,8 +1,4 @@
 # coding:utf-8
-"""""Train and test file for Reinforcement Learning based methods (A2C) for Charades-STA dataset \
-: Read,Watch, and Move Reinforcement Learning for Temporally Grounding Natural Language Descriptions in video (https://arxiv.org/abs/1901.06829) """
-
-# coding:utf-8
 from __future__ import print_function
 import torch.nn.functional as F
 import os
